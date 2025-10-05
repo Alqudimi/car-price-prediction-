@@ -7,7 +7,7 @@
  بنية المشروع
 
 ```
-project/
+main/
 ├── data/
 │   ├── raw/                    # البيانات الخام
 │   │   └── UsedCarsSA_Clean_EN.csv
